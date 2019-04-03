@@ -23,7 +23,7 @@ Github offers various ways to keep up to date with changes.
 
 # Channel ownership
 * Channels are owned by the person with the highest chanfix rank or whoever is set as owner in chanserv.
-* Channels may not contain content forbidden by our code of conduct or content that is against the law.
+* Channels may not contain content forbidden by our code of conduct or content or terms of services that is against the law.
 
 * Channel owners are required to ensure network rules are followed in channels and kick or ban those that do not follow them.
 * If channel owners do not attempt to ensure network rules are followed in their channel, their channel registration may be dropped permanently.
