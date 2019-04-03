@@ -1,11 +1,33 @@
 In order to maintain a friendly and safe environment on the IRC server, the following rules have been set in place:
 
 # General rules
-* Follow the [Code of Conduct](https://github.com/TheDaedalusCrew/community/blob/master/CODE_OF_CONDUCT.md) to the best of your abilities.
+* Follow the [Code of Conduct](https://github.com/TheDaedalusCrew/community/blob/master/CODE_OF_CONDUCT.md) and [Terms of Service](https://termsservicetemplate.com/live.php?token=53YDDvoUwIPiq3eegI73H7coSTzUj1Cz).
 * Do not send advertisements for outside services using PM without permission from a community leader.
 * Do not flood the network with meaningless or repeated messages.
+* Do not bypass channel, server or network bans.
+* If a staff member asks you something in PM, respond. If you need to go, inform staff when you will be back to discuss the issue.
+* Content published by users are the sole responsibility of those users.
+
+# Official channels
+* The following channels are official channels: #help
+* Do not use bots on official channels.
+* Do not write messages in ALL CAPS on these channels.
+* Do not send advertisements for outside services on these channels.
+* Be respectful to other users.
+* Try to stay on topic in these channels.  
+* Stay away from topics that may start "flame wars" such as religion or politics.
+* Ignoring or purposely violating instructions from staff on these channels may result in network-wide penalties.
+* Staff must act profesionally on these channels.
+
+# Channel ownership
+* Channels are owned by the person with the highest chanfix rank or whoever is set as owner in chanserv.
+* Channels may not contain content forbidden by our code of conduct or content that is against the law.
+
+* Channel owners are required to ensure network rules are followed in channels and kick or ban those that do not follow them.
+* If channel owners do not attempt to ensure network rules are followed in their channel, their channel registration may be dropped permanently.
 
 # Bot rules
+* Any client using automated scripts to interact with the server such as MIRC or Irssi scripts etc. also counts as an IRC bot and must follow these rules.
 * IRC Bots may not also be used for regular chatting and need to be clearly marked as a bot by setting usermode +B. (/mode botname +B)
 * IRC Bots may not communicate with or react to "users" that have usermode +B set.
 * IRC Bots may not send PM's to users without an action by a user causing this PM.  
