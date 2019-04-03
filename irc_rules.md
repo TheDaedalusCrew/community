@@ -1,4 +1,4 @@
-In order to easily navigate this document, considering installing this chrome extension: https://github.com/willklein/markdown-menu
+In order to easily navigate this document, considering installing this chrome extension: https://github.com/summerblue/github-toc
 
 In order to maintain a friendly and safe environment on the IRC server, the following rules have been set in place:
 
