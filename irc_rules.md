@@ -10,6 +10,7 @@ Github offers various ways to keep up to date with changes.
 * Do not flood the network with meaningless or repeated messages.
 * Do not bypass channel, server or network bans.
 * If a staff member asks you something in PM, respond. If you need to go, inform staff when you will be back to discuss the issue.
+* Channels marked with +s or +p are considered private. Do not share information from/about these channels without permission from channel staff.
 
 # Official channels
 * The following channels are official channels: #help
