@@ -2,6 +2,8 @@ In order to maintain a friendly and safe environment on the IRC server, the foll
 
 # General rules
 * Follow the [Code of Conduct](https://github.com/TheDaedalusCrew/community/blob/master/CODE_OF_CONDUCT.md) and [Terms of Service](https://termsservicetemplate.com/live.php?token=53YDDvoUwIPiq3eegI73H7coSTzUj1Cz).
+* These rules can be updated at any time, it is your responsibility to keep up to date with any changes.
+Github offers various ways to keep up to date with changes.
 * Do not send advertisements for outside services using PM without permission from a community leader.
 * Do not flood the network with meaningless or repeated messages.
 * Do not bypass channel, server or network bans.
