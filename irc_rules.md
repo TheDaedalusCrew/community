@@ -47,7 +47,7 @@ If users can use the bot to send any form of messages it needs to be clear which
 * Private information (e.g. private logs, passwords, usernames, ip's etc.) collected by bots need to be stored securely. You must inform any breaches to Community Leaders and local and international privacy laws apply.
 Open source bots are preferred and if we have reason to believe your bot may be insecure, we may choose to restrict access to features or restrict access to the network entirely for your bot.
 
-## Channel logs.
+## Channel logs
 You are allowed to store or share channel messages without opt-in as long as you follow these rules.
 * IRC Bots may not share channel or private message content over unencrypted networks. (So use https if you serve it online.)
 * Private message content may only be shared if the user opts in and you must always inform the user of the fact you are sharing their messages before every conversation.
