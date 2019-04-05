@@ -31,7 +31,7 @@ Github offers various ways to keep up to date with changes.
 * If channel owners do not attempt to ensure network rules are followed in their channel, their channel registration may be dropped permanently.
 
 # Bot rules
-* Any client using automated scripts to interact with the server such as MIRC or Irssi scripts etc. also counts as an IRC bot and must follow these rules.
+* Any client using automated scripts to interact with the server such as MIRC or Irssi scripts etc. also counts as an IRC bot and must follow these rules. (Exceptions to this rule can be found under _scripting rules_.)
 * IRC Bots may not also be used for regular chatting and need to be clearly marked as a bot by setting usermode +B. (/mode botname +B)
 * IRC Bots may not communicate with or react to "users" that have usermode +B set.
 * IRC Bots may not send PM's to users without an action by a user causing this PM.  
@@ -55,3 +55,15 @@ You are allowed to store or share channel messages without opt-in as long as you
 * Channel logs may not be kept on channels with channel modes +s or +p.
 * Users may request their messages to be removed from logs, the bot owner must then remove all messages from this user from the logs.
 * Users may opt-out of logs, when they do this, you may no longer log any of their messages.
+
+## Scripting rules
+You are allowed to do the following things without needing a seperate IRC bot:
+* You are allowed to respond to highlights of your nick with a single CTCP message to let people know you are away.
+* You are allowed to automatically change your nick to regain it after you were disconnected.
+* You are allowed to automatically rejoin an empty channel to regain +o.
+* You are allowed to take any actions to authenticate to any services or bots. (Although we prefer if you use SASL instead since that is more secure.)
+* You are allowed to automatically rejoin in channels you are the channel owner if you are kicked. (Not allowed if you are not the channel owner.)
+* You are allowed to automatically send messages to the following channels: #away, #test, #musicspam, #botspam  
+Make sure to read the channel topics to see what messages are allowed.
+* You are allowed to take any actions that do not communicate with the server as long as they do not break any other rules.
+* You are allowed to automatically donate to Alice so she can buy cola.
